@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @aswinichalla12
 - 👀 I’m interested in coding
-- 🌱 I’m currently pursuing my bachelor's degree in computer science and engineering.
-- 📫 How to reach me ...
+- 🌱 I’m currently pursuing my bachelor's degree in computer science and engineering...
 - 😄 Pronouns: she/her
   
 
